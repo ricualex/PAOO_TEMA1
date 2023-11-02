@@ -1,0 +1,3 @@
+/home/ricu/Desktop/T1/CMakeFiles/SmallBankingApp.dir
+/home/ricu/Desktop/T1/CMakeFiles/edit_cache.dir
+/home/ricu/Desktop/T1/CMakeFiles/rebuild_cache.dir
